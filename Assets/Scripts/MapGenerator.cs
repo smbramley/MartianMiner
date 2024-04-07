@@ -1,10 +1,11 @@
+using System;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
 public class MapGenerator : MonoBehaviour
 {
     public Tilemap tilemap; // Reference to your Tilemap
-    public Tile emptyTile, coalTile, goldTile, diamondTile; // References to your Tiles
+    public Tile grassTile, emptyTile, goldTile, copperTile, tinTile, platinumTile, rubyTile, emeraldTile, sapphireTile, diamondTile, gravelTile, opalTile, unknownTile, tungstonTile, rockTile; // References to your Tiles
     public int width = 10;
     public int height = 10;
     private MaterialType[,] mapGrid;
@@ -21,7 +22,23 @@ public class MapGenerator : MonoBehaviour
         {
             for (int y = 0; y < height; y++)
             {
-                mapGrid[x, y] = (MaterialType)Random.Range(0, 4); // Assuming 4 material types
+                if (y == height - 1)
+                {
+                    mapGrid[x, y] = MaterialType.Grass; // Set top layer to Grass
+                }
+                else
+                {
+                    int rand = UnityEngine.Random.Range(0, 10); // Adjusted range for a 1 in 10 chance
+                    if (rand < 7) // 70% chance to be Empty
+                    {
+                        mapGrid[x, y] = MaterialType.Empty;
+                    }
+                    else
+                    {
+                        // Adjust the range based on the number of materials excluding Grass and Empty
+                        mapGrid[x, y] = (MaterialType)UnityEngine.Random.Range(1, Enum.GetNames(typeof(MaterialType)).Length - 1);
+                    }
+                }
                 PlaceTile(x, y, mapGrid[x, y]);
             }
         }
@@ -32,11 +49,17 @@ public class MapGenerator : MonoBehaviour
         Vector3Int position = new Vector3Int(x, y, 0);
         switch (type)
         {
+            case MaterialType.Grass:
+                tilemap.SetTile(position, grassTile);
+                break;
             case MaterialType.Empty:
                 tilemap.SetTile(position, emptyTile);
                 break;
-            case MaterialType.Coal:
-                tilemap.SetTile(position, coalTile);
+            case MaterialType.Tin:
+                tilemap.SetTile(position, tinTile);
+                break;
+            case MaterialType.Copper:
+                tilemap.SetTile(position, copperTile);
                 break;
             case MaterialType.Gold:
                 tilemap.SetTile(position, goldTile);
@@ -44,9 +67,43 @@ public class MapGenerator : MonoBehaviour
             case MaterialType.Diamond:
                 tilemap.SetTile(position, diamondTile);
                 break;
+            case MaterialType.Platinum:
+                tilemap.SetTile(position, platinumTile);
+                break;
+            case MaterialType.Unknown:
+                tilemap.SetTile(position, unknownTile);
+                break;
+            case MaterialType.Sapphire:
+                tilemap.SetTile(position, sapphireTile);
+                break;
+            case MaterialType.Emerald:
+                tilemap.SetTile(position, emeraldTile);
+                break;
+            case MaterialType.Ruby:
+                tilemap.SetTile(position, rubyTile);
+                break;
+            case MaterialType.Tungston:
+                tilemap.SetTile(position, tungstonTile);
+                break;
+            case MaterialType.Rock:
+                tilemap.SetTile(position, rockTile);
+                break;
+            case MaterialType.Gravel:
+                tilemap.SetTile(position, gravelTile);
+                break;
             default:
                 break;
         }
     }
+
+    MaterialType GetRandomMaterialType()
+    {
+        float rand = UnityEngine.Random.Range(0f, 1f); // Random value between 0 and 1
+        if (rand < 0.7f) return MaterialType.Empty; // 70% chance
+        if (rand < 0.8f) return MaterialType.Tin; // 10% chance
+        if (rand < 0.9f) return MaterialType.Copper; // 10% chance
+                                                   // Adjust probabilities as needed
+        return MaterialType.Diamond; // 10% chance
+    }
 }
-public enum MaterialType { Empty, Tin, Copper, Coal, Gold, Diamond, Ruby, Emerald, Saphire }
+public enum MaterialType { Grass, Empty, Tin, Copper, Tungston, Platinum, Rock, Gravel, Gold, Diamond, Ruby, Emerald, Sapphire, Unknown }

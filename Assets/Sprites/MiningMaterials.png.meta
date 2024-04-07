@@ -141,8 +141,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1792
-        height: 1024
+        width: 129
+        height: 930
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,6 +152,2946 @@ TextureImporter:
       bones: []
       spriteID: 407e70d9b8369814e9b517da18f61b29
       internalID: 854236872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 932
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0c2cd1694d23a43a602edde59c2aaa
+      internalID: 2134637567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 931
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d09f6923da16ba47ade5956ff1ef687
+      internalID: 2095600486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 16
+        width: 58
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f255756db10fa9428dc4054d6467a83
+      internalID: 1199179458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 931
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1d22fa10b59c14e8a1c5693e326c47
+      internalID: -141741397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 932
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d739ecc2d03ef884da8fe122b5c755dd
+      internalID: 1427196302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 832
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e871ece2635df4db1089176b768fe9
+      internalID: -1314190069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 641
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0706de2fea8e4b8f203c09c4db1cc
+      internalID: -252805114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 737
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca121edc72a2049aeaab8f8c46ff97
+      internalID: -659659180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 756
+        width: 117
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6963a68485489c94bb8e8a5026d8f9c3
+      internalID: -787000109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 532
+        width: 96
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2ed968b8e8d474095f62d3af53eb12
+      internalID: -1346508233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_11
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 534
+        width: 96
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1c4f973875e2c49882b98f6b49ce5a
+      internalID: 1660485699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_12
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 755
+        width: 121
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e2b8aaa19f6824ab15886e80240c47
+      internalID: 3930732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_13
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 533
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3a2a295f7c6b742accb098c5ca8586
+      internalID: -1207601769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_14
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 756
+        width: 120
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258c97726c38b794c89fca120fc0b5f2
+      internalID: 1599342912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_15
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 533
+        width: 95
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b446fa53ee7744fa854fbf0ffa20e2
+      internalID: 1607636355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_16
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 756
+        width: 120
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a87385e2a801f04eb41c0f516373739
+      internalID: 1032764341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_17
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 533
+        width: 107
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311588831021b7b4a976feacbeba1855
+      internalID: -920712193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_18
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 756
+        width: 121
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd148568c3af34093e7b3ab4130833
+      internalID: -1456844761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_19
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 697
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6da94b0128b85408b4fd0bdcf4fe22
+      internalID: -1673225709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_20
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 533
+        width: 116
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fdcb7629b78f74fac0f203d04178db
+      internalID: 2102778062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_21
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 756
+        width: 122
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802fd2a52faa6cb4a8e0635980304337
+      internalID: 61517680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_22
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 532
+        width: 108
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299094f976e23864a98bcfe630ea7d88
+      internalID: 515411092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_23
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 532
+        width: 98
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3be8c11576402b4caa4e8f32fb0f839
+      internalID: -1700178131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_24
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 756
+        width: 147
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f709b4eb689f48acbae5216af0bb7
+      internalID: -783989527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_25
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 533
+        width: 103
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919ba4735de43214ba56ec8420f9adec
+      internalID: 1854576061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_26
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 761
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb05d1dc7447ee42be4f690f0d823ee
+      internalID: 1125825166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_27
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 550
+        width: 251
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa917ee729e5dc4da5fdcd788fdeee9
+      internalID: 106353305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_28
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 532
+        width: 166
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e369d2f180a5bf49af8fde220031668
+      internalID: 759007726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_29
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 622
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d71ab47d4d35541a081818b06ac841
+      internalID: -281603602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_30
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 890
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d2650497dc88d41838ac95e60b436b
+      internalID: -699073952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_31
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 701
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f19066c88376a44a7ba42cc3cc9ca5
+      internalID: 561226615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_32
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 765
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d381361bcfeedcb4bb827061850dec66
+      internalID: 643613706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_33
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 827
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4322f342a4f123640a0a7e6a02afc2d6
+      internalID: -434131426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_34
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 952
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bfe30621039d24992099270007000f
+      internalID: 419711667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_35
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 766
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcd2c9c3a1e164478bd21f8b351ba35
+      internalID: -669932844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_36
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 890
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74abd26c81622b34aab6019f27ed2070
+      internalID: 538404699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_37
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 952
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea87bf3a0873bf34e8a94d8d890befdc
+      internalID: 1655210760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_38
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 828
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b537d75152cb48a2a6d36e842eb77
+      internalID: -650968231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_39
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 700
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bac3c8c372ce64583b63ca1f8b65b2
+      internalID: -1326221291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_40
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 952
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0f107fa0a458e46805e1bfcf9a3283
+      internalID: 147189719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_41
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 828
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf109fa709c5b24f961362ad1f74d1e
+      internalID: -1277976270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_42
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 762
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a878b0dfa4a9004d9dcf51dfffe1df6
+      internalID: 1015109743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_43
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 695
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa513e09d748845a3c5557fc26a9c2
+      internalID: 1822291287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_44
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 890
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec9d5f0d363fd24899675302008e330
+      internalID: 1243794863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_48
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 620
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64160596db4324e47bbfb3ba149a16b9
+      internalID: -1955686815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_49
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 621
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41853c3b562dd84c80e54077a010b14
+      internalID: 1447833874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 546
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbc3f00de318a242b3b638a4f760d9f
+      internalID: 1891865787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_53
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 463
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f9ebec41efffe458e9e7aefc315fcf
+      internalID: 1949383744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_54
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 316
+        width: 138
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5592856f6d1a1d542b28a4b127d4835e
+      internalID: 431416999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_55
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 316
+        width: 108
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c8fdfed4e00454a8aaddff930f7f14
+      internalID: 273939915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_56
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 390
+        width: 5
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665c47a3eecf09a4eb75a0c2afe76aeb
+      internalID: -2035875684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_57
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 488
+        width: 40
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdfe8013b5b2184ba7e36eb20823921
+      internalID: -1024010551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_58
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 416
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9da7a69961af8c44b286d60e6b19586
+      internalID: -1612144660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_59
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 418
+        width: 251
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a69fabd89ac43479d095aeb974ed9a
+      internalID: 127808246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_60
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 416
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfedb8853f9f4542ae52ef6d1da08ba
+      internalID: 1456250651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_61
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 426
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b96dc253476504aab0290d5c6b0159
+      internalID: 1162250477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_62
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 432
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f051ded3d3c6f1f498b4be024411fc18
+      internalID: 1812344807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_63
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 403
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf6ae9aba7f12643a135614a13a20e7
+      internalID: 1861785844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_64
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 410
+        width: 147
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824ce32b9a414404391ca01f043f2494
+      internalID: 1918680422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_65
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 429
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4d98e031d72344a9f26b16810a98a9
+      internalID: 791102227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_66
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 408
+        width: 118
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a840106333591848a52c332668803a6
+      internalID: -1465441560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_67
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 391
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf2a71535d2b74fa8931d52c2e7f47
+      internalID: -1434300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_68
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 403
+        width: 103
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1697c0f9fbf9849bfa71296e57766a
+      internalID: -317812493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_69
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 479
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c8fc17034ac3f4c8904cc80b732c80
+      internalID: -2004491633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_70
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 472
+        width: 83
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7dd36515c08f54bb533a191ed7c043
+      internalID: 672704455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_71
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 463
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a8431a10485e0449007a1a78880eb6
+      internalID: 1100938689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_72
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 506
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e807317990ab8664b85a224c586d4b45
+      internalID: 151461469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_73
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 558
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78271bdb57340049ab36be4356f6078
+      internalID: -2034227900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_74
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 462
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8586bc16ef2670745bdd3bcf25c061c3
+      internalID: 1481965293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_75
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 505
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c4294bc0c7b9c46b67f65c32417794
+      internalID: -818470454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_78
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 353
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9373b61e4484414cae94a0bbe7620ee
+      internalID: 775181946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_79
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 319
+        width: 564
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b50b245d3b502742b4fe890086ae014
+      internalID: -1825188955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_80
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 364
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df326f0f1d858d141adf084892ca66b4
+      internalID: -1808671460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_81
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 366
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeda3b4245b73941a21c546ccfdc79d
+      internalID: 240969495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_82
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 328
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd59d0b81987c4458e08a91a07d5923
+      internalID: 1152839209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_83
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 327
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db31039704199f248a8c9f64d1728a2d
+      internalID: 1799744596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_84
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 378
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe667c28f7ba374785d3ec3d6c0b39f
+      internalID: 1269186425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_85
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 375
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bfb54ea2a3ef843903a0ca30137b4c
+      internalID: -1582273583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_86
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 384
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd676748489c0084699fa54b00623b38
+      internalID: 37229785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_87
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 319
+        width: 103
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f735b502859d26c4f9e5e442e42f9073
+      internalID: -1494221890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_88
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 364
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0572785bf0cf342a9da5d24c38b7e1
+      internalID: 1935284628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_89
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 354
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1658293276a02794992a602304be9af6
+      internalID: -1954324321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_90
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 354
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07e1c9da8e50804b8210fccc9fbdc02
+      internalID: -740309605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_91
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 358
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d828064ee45e84f80eeff13170b209
+      internalID: 1402381037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_95
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 243
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548517f6f665069499d3f5d4dc638255
+      internalID: -1084787826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_96
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 319
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22c7acaa70879b41ba99ea815e4d5cf
+      internalID: 1114234165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_97
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 330
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3533573125ce3c243a22a2f025999a29
+      internalID: 1774211272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_98
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 330
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a884b41fad9f4dad93b1c4417f72f
+      internalID: -12371421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_99
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 319
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d19981adb4ebd748abf8e38b6473207
+      internalID: 1990419657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_100
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 330
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29773e0b946a29146ac3596c2943405a
+      internalID: -158468737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_101
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 291
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f430e8e227672e4f88d491b4835e938
+      internalID: -1125185315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_102
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 292
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a13fcf1ab60cfa4a9df19d1056e3ead
+      internalID: -1836604936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_103
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 292
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b18cba9b3039f4780c75d0ad8f6af7
+      internalID: 1055279125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_104
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 292
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b5c6b709aa8ac46a8f5d07bc133c34
+      internalID: 314207349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_105
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 134
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde68be0a0125bd488f8591fe867e5e6
+      internalID: 693771165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_106
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 158
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d08451197b61e84a9d90e1a19f0b8dd
+      internalID: -1719898969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_107
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 159
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fed592b8d964b642b17285fdfd3fb5f
+      internalID: -590632741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_108
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 159
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fe8feae4e965d4c9ebe9a7d309b55a
+      internalID: -37728859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_109
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 159
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7a77750d852334caa4e2baaa3547f2
+      internalID: 1971037508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_110
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 159
+        width: 213
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aac6d7e3c4b87849ac9b1a0c4b439b7
+      internalID: 801396223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_111
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 163
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be1cbc02a0e324eb78a9d7eb17b202
+      internalID: -317247074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_112
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 168
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936f26b50beb1e243a52e53a9a3cb2bc
+      internalID: -863469085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_113
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 160
+        width: 100
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9449c52cd51574d8a7010e07ade3f9
+      internalID: 178035215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_114
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 160
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2662394cb47f4764d881506df240df12
+      internalID: 501115935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_115
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 160
+        width: 113
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95149e66a982fa041bebaec2776c534b
+      internalID: -265889331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_116
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 160
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d606bed844c9744b8736774d72d1b6
+      internalID: 283491318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_117
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 223
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fa1e36e2e1fdc448f157c5583dc023
+      internalID: 1812756617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_118
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 232
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc26a0efe1fad2d478142f189aece222
+      internalID: 378673589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_119
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 228
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d6bc5cb793f8f44afe8d78a4cd7355
+      internalID: -634595052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_120
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 226
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8bed12ae758c2449b4fcb809137266
+      internalID: 536713021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_121
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 226
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07c79e380e2db847835cc6f0248af43
+      internalID: 1924070018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_122
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 175
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ced349f7c8e864aa86032ef3bde538
+      internalID: -121277775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_123
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 175
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac14b5a54dc0daf4286e41389c4c32e5
+      internalID: -1571388507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_124
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 174
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ea8903646c729428643dcc596a332a
+      internalID: -1971088418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_125
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 174
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a877b89f50effc4fab50d5c8bea6caf
+      internalID: -1786216302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_126
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2d7ae6547bfb741914134a5d9941ff
+      internalID: -609669175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_127
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 22
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42857a3edc74db845b5ba308cfd160da
+      internalID: 912183628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_128
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 28
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969af0fce6d0e694f8ac88ebb1a8c7d7
+      internalID: -638437205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_129
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 28
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2dfbc76303b144da782f42f44cb4dd
+      internalID: -179415354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_130
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 28
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdbee051fe8f094b8bad83389ebe693
+      internalID: 1219274330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_131
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 32
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c11a05b39c77364ea0104b4c31d8f9c
+      internalID: -1759077252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_132
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 31
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db66993151329a44950b4d4884cdd74
+      internalID: -551656947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_133
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 39
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4273a67846e1f04c86dac5b4f769106
+      internalID: -471454433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_134
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 31
+        width: 109
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ae4cfdea257e4db3b5f16ea7b24b8
+      internalID: 1874539762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_135
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 31
+        width: 127
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7f8aaa4a341824fa40f96f2ad85fbd
+      internalID: 793491794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_136
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 31
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edacdbcd1ec8733468caa936e4a08212
+      internalID: 1292556183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_137
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 38
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5b4e275c22f9840ac9968e0844b6f8
+      internalID: 41460696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_138
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 32
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d0853f95f01974bb505a04bc90aec2
+      internalID: 128968423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_139
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 0
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc77157b9b9e2494a96a703d68815f9f
+      internalID: 1602027908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_140
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 64
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a01052e88ed9b439b01b9438d77a71
+      internalID: 263303004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_141
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 117
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38616c48e83e7a4a845001e26c3dcd5
+      internalID: 1612681114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_142
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 118
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca36d748de0aada45ab9412dc1c70d7c
+      internalID: -1323417660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_143
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 64
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d52914542f50648b615aabd4e3ac52
+      internalID: -1195914276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_144
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 64
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044f783e2c5943a4097d732b6a7d7616
+      internalID: 1513174052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_145
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 118
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d870a25ccd2541344b19e98d838d8cf6
+      internalID: 1168131769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_146
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 64
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9003d601730f4440823e07c88c504ec
+      internalID: -946283690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_147
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 72
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925a0c684fc29cb4e830fadf01cc44d3
+      internalID: 1175228695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_148
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 14
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df2be06e28125444833d73b80bba912
+      internalID: -836225416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_149
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 14
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f1e38ef04c7064f85d60462c104641
+      internalID: 97302929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiningMaterials_150
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 0
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd98cda5a7234b649a08d5b43c50f6bc
+      internalID: 1735982536
       vertices: []
       indices: 
       edges: []
@@ -168,6 +3108,156 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       MiningMaterials_0: 854236872
+      MiningMaterials_1: 2134637567
+      MiningMaterials_10: -1346508233
+      MiningMaterials_100: -158468737
+      MiningMaterials_101: -1125185315
+      MiningMaterials_102: -1836604936
+      MiningMaterials_103: 1055279125
+      MiningMaterials_104: 314207349
+      MiningMaterials_105: 693771165
+      MiningMaterials_106: -1719898969
+      MiningMaterials_107: -590632741
+      MiningMaterials_108: -37728859
+      MiningMaterials_109: 1971037508
+      MiningMaterials_11: 1660485699
+      MiningMaterials_110: 801396223
+      MiningMaterials_111: -317247074
+      MiningMaterials_112: -863469085
+      MiningMaterials_113: 178035215
+      MiningMaterials_114: 501115935
+      MiningMaterials_115: -265889331
+      MiningMaterials_116: 283491318
+      MiningMaterials_117: 1812756617
+      MiningMaterials_118: 378673589
+      MiningMaterials_119: -634595052
+      MiningMaterials_12: 3930732
+      MiningMaterials_120: 536713021
+      MiningMaterials_121: 1924070018
+      MiningMaterials_122: -121277775
+      MiningMaterials_123: -1571388507
+      MiningMaterials_124: -1971088418
+      MiningMaterials_125: -1786216302
+      MiningMaterials_126: -609669175
+      MiningMaterials_127: 912183628
+      MiningMaterials_128: -638437205
+      MiningMaterials_129: -179415354
+      MiningMaterials_13: -1207601769
+      MiningMaterials_130: 1219274330
+      MiningMaterials_131: -1759077252
+      MiningMaterials_132: -551656947
+      MiningMaterials_133: -471454433
+      MiningMaterials_134: 1874539762
+      MiningMaterials_135: 793491794
+      MiningMaterials_136: 1292556183
+      MiningMaterials_137: 41460696
+      MiningMaterials_138: 128968423
+      MiningMaterials_139: 1602027908
+      MiningMaterials_14: 1599342912
+      MiningMaterials_140: 263303004
+      MiningMaterials_141: 1612681114
+      MiningMaterials_142: -1323417660
+      MiningMaterials_143: -1195914276
+      MiningMaterials_144: 1513174052
+      MiningMaterials_145: 1168131769
+      MiningMaterials_146: -946283690
+      MiningMaterials_147: 1175228695
+      MiningMaterials_148: -836225416
+      MiningMaterials_149: 97302929
+      MiningMaterials_15: 1607636355
+      MiningMaterials_150: 1735982536
+      MiningMaterials_16: 1032764341
+      MiningMaterials_17: -920712193
+      MiningMaterials_18: -1456844761
+      MiningMaterials_19: -1673225709
+      MiningMaterials_2: 2095600486
+      MiningMaterials_20: 2102778062
+      MiningMaterials_21: 61517680
+      MiningMaterials_22: 515411092
+      MiningMaterials_23: -1700178131
+      MiningMaterials_24: -783989527
+      MiningMaterials_25: 1854576061
+      MiningMaterials_26: 1125825166
+      MiningMaterials_27: 106353305
+      MiningMaterials_28: 759007726
+      MiningMaterials_29: -281603602
+      MiningMaterials_3: 1199179458
+      MiningMaterials_30: -699073952
+      MiningMaterials_31: 561226615
+      MiningMaterials_32: 643613706
+      MiningMaterials_33: -434131426
+      MiningMaterials_34: 419711667
+      MiningMaterials_35: -669932844
+      MiningMaterials_36: 538404699
+      MiningMaterials_37: 1655210760
+      MiningMaterials_38: -650968231
+      MiningMaterials_39: -1326221291
+      MiningMaterials_4: -141741397
+      MiningMaterials_40: 147189719
+      MiningMaterials_41: -1277976270
+      MiningMaterials_42: 1015109743
+      MiningMaterials_43: 1822291287
+      MiningMaterials_44: 1243794863
+      MiningMaterials_45: 1855711610
+      MiningMaterials_46: 1735120386
+      MiningMaterials_47: 59001037
+      MiningMaterials_48: -1955686815
+      MiningMaterials_49: 1447833874
+      MiningMaterials_5: 1427196302
+      MiningMaterials_50: -1799997153
+      MiningMaterials_51: -345030108
+      MiningMaterials_52: 1891865787
+      MiningMaterials_53: 1949383744
+      MiningMaterials_54: 431416999
+      MiningMaterials_55: 273939915
+      MiningMaterials_56: -2035875684
+      MiningMaterials_57: -1024010551
+      MiningMaterials_58: -1612144660
+      MiningMaterials_59: 127808246
+      MiningMaterials_6: -1314190069
+      MiningMaterials_60: 1456250651
+      MiningMaterials_61: 1162250477
+      MiningMaterials_62: 1812344807
+      MiningMaterials_63: 1861785844
+      MiningMaterials_64: 1918680422
+      MiningMaterials_65: 791102227
+      MiningMaterials_66: -1465441560
+      MiningMaterials_67: -1434300298
+      MiningMaterials_68: -317812493
+      MiningMaterials_69: -2004491633
+      MiningMaterials_7: -252805114
+      MiningMaterials_70: 672704455
+      MiningMaterials_71: 1100938689
+      MiningMaterials_72: 151461469
+      MiningMaterials_73: -2034227900
+      MiningMaterials_74: 1481965293
+      MiningMaterials_75: -818470454
+      MiningMaterials_76: -1290486340
+      MiningMaterials_77: -1304842039
+      MiningMaterials_78: 775181946
+      MiningMaterials_79: -1825188955
+      MiningMaterials_8: -659659180
+      MiningMaterials_80: -1808671460
+      MiningMaterials_81: 240969495
+      MiningMaterials_82: 1152839209
+      MiningMaterials_83: 1799744596
+      MiningMaterials_84: 1269186425
+      MiningMaterials_85: -1582273583
+      MiningMaterials_86: 37229785
+      MiningMaterials_87: -1494221890
+      MiningMaterials_88: 1935284628
+      MiningMaterials_89: -1954324321
+      MiningMaterials_9: -787000109
+      MiningMaterials_90: -740309605
+      MiningMaterials_91: 1402381037
+      MiningMaterials_92: 969216994
+      MiningMaterials_93: 897770711
+      MiningMaterials_94: -720886274
+      MiningMaterials_95: -1084787826
+      MiningMaterials_96: 1114234165
+      MiningMaterials_97: 1774211272
+      MiningMaterials_98: -12371421
+      MiningMaterials_99: 1990419657
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
