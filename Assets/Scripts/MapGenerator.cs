@@ -5,7 +5,7 @@ using UnityEngine.Tilemaps;
 public class MapGenerator : MonoBehaviour
 {
     public Tilemap tilemap; // Reference to your Tilemap
-    public Tile grassTile, emptyTile, goldTile, copperTile, tinTile, platinumTile, rubyTile, emeraldTile, sapphireTile, diamondTile, gravelTile, opalTile, unknownTile, tungstonTile, rockTile; // References to your Tiles
+    public Tile grassTile, emptyTile, rockTile, gravelTile, copperTile, tinTile, goldTile, sapphireTile, emeraldTile, rubyTile, diamondTile, opalTile, tungstonTile, platinumTile, unknownTile; // References to your Tiles
     public int width = 10;
     public int height = 10;
     private MaterialType[,] mapGrid;
@@ -36,14 +36,14 @@ public class MapGenerator : MonoBehaviour
                     else
                     {
                         // Adjust the range based on the number of materials excluding Grass and Empty
-                        mapGrid[x, y] = (MaterialType)UnityEngine.Random.Range(1, Enum.GetNames(typeof(MaterialType)).Length - 1);
+                        //mapGrid[x, y] = (MaterialType)UnityEngine.Random.Range(1, Enum.GetNames(typeof(MaterialType)).Length - 1);
+                        mapGrid[x, y] = GetMaterialBasedOnDepth(y);
                     }
                 }
                 PlaceTile(x, y, mapGrid[x, y]);
             }
         }
     }
-
     void PlaceTile(int x, int y, MaterialType type)
     {
         Vector3Int position = new Vector3Int(x, y, 0);
@@ -95,7 +95,6 @@ public class MapGenerator : MonoBehaviour
                 break;
         }
     }
-
     MaterialType GetRandomMaterialType()
     {
         float rand = UnityEngine.Random.Range(0f, 1f); // Random value between 0 and 1
@@ -105,5 +104,23 @@ public class MapGenerator : MonoBehaviour
                                                    // Adjust probabilities as needed
         return MaterialType.Diamond; // 10% chance
     }
+    MaterialType GetMaterialBasedOnDepth(int depth)
+    {
+        float depthFactor = (float)depth / height;
+
+        if (depthFactor < 0.1f)
+            return (MaterialType)UnityEngine.Random.Range(1, Enum.GetNames(typeof(MaterialType)).Length - 1);
+        else if (depthFactor < 0.2f)
+            return (MaterialType)UnityEngine.Random.Range(1, 11);
+        else if (depthFactor < 0.5f)
+            return (MaterialType)UnityEngine.Random.Range(1, 9);
+        else if (depthFactor < 0.7)
+            return (MaterialType)UnityEngine.Random.Range(1, 6);
+        else if(depthFactor < 0.9)
+            return (MaterialType)UnityEngine.Random.Range(1, 5);
+        else
+            return MaterialType.Empty;
+    }
+
 }
-public enum MaterialType { Grass, Empty, Tin, Copper, Tungston, Platinum, Rock, Gravel, Gold, Diamond, Ruby, Emerald, Sapphire, Unknown }
+public enum MaterialType { Grass, Empty, Tin, Copper, Rock, Gravel, Gold, Sapphire, Emerald, Ruby, Diamond, Tungston, Platinum, Unknown }
